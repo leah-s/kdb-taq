@@ -107,4 +107,4 @@ Instead, download code and subject it to the version control and regression test
 you use for your application.
 
 ## Git CMTP
-Git Training for CMTP
+Git Exercises for CMTP
